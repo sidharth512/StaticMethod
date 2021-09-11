@@ -1,0 +1,4 @@
+user=admin
+password=manager
+url=https://demo.actitime.com
+driver=./driver\\chromedriver.exe
